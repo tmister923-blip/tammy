@@ -60,7 +60,7 @@ riffy.on('queueEnd', async (player) => {
 });
 
 // Auto-reconnect configuration
-const AUTO_RECONNECT_CHANNEL_ID = '1406914640168091752';
+const AUTO_RECONNECT_CHANNEL_ID = '1430368066130149456';
 const RECONNECT_DELAY = 15000; // 15 seconds
 
 // Auto-reconnect functionality
