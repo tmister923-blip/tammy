@@ -74,7 +74,7 @@ let processing = new Map();
 const musicPanels = new Map();
 const guildChannelConfig = new Map();
 const stayConnectedGuilds = new Map();
-const PERSISTENT_VOICE_CHANNEL_ID = '1430368066130149456';
+const PERSISTENT_VOICE_CHANNEL_ID = '1406914640168091752';
 const PERSISTENT_RECONNECT_DELAY = 5000;
 let persistentReconnectTimeout = null;
 
